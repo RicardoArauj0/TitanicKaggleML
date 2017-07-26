@@ -1,5 +1,6 @@
 # TitanicKaggleML
-Notebook from my Titanic solution on Kaggle competition
+Notebook from my solution on Titanic Kaggle competition:
+https://www.kaggle.com/c/titanic#description
 
 In this solution for Kaggle Titanic competition I'm using Python in a Jupyter notebook and the following libraries:
 
